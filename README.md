@@ -5,12 +5,12 @@
 Se crea el archivo **.gitignore** para configurar los archivos que no se sincronizarán en el repositorio
 
 ````shell
+*pyc
+__pycache__/
+.venv/
+````
 
-## 2. 
-
-
-
-
+## 2. Crear el **virtual enviroment**
 
 Se crea el ambiente virtual de trabajo de python
 
