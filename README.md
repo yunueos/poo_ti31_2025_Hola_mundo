@@ -5,7 +5,7 @@
 Se crea el archivo **.gitignore** para configurar los archivos que no se sincronizarán en el repositorio
 
 ````shell
-*pyc
+*.pyc
 __pycache__/
 .venv/
 ````
